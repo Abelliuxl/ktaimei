@@ -1,0 +1,14 @@
+2023-10-17 14:40:43,467 - command check_journal_if is triggered by msg: /if Quantitative Imaging in Medicine and Surgery
+2023-10-17 14:40:43,467 - 2023-10-17 14:40:43.467908 - 📖：  Quantitative Imaging in Medicine and Surgery
+2023-10-17 14:40:44,043 - 2023-10-17 14:40:43.467908 - 🙃回答： 期刊名：Quantitative Imaging in Medicine and Surgery，影响因子：2.8
+2023-10-17 15:55:32,069 - command check_journal_if is triggered by msg: /if Int. J. Biol. Sci.
+2023-10-17 15:55:32,069 - 2023-10-17 15:55:32.069963 - 📖：  Int. J. Biol. Sci.
+2023-10-17 15:55:33,970 - 2023-10-17 15:55:32.069963 - 🙃回答： 期刊名：INTERNATIONAL JOURNAL OF MOLECULAR SCIENCES，影响因子：5.6
+2023-10-17 15:55:49,749 - command check_journal_if is triggered by msg: /if International Journal of Biological Sciences
+2023-10-17 15:55:49,749 - 2023-10-17 15:55:49.749920 - 📖：  International Journal of Biological Sciences
+2023-10-17 15:55:50,273 - 2023-10-17 15:55:49.749920 - 🙃回答： 期刊名：International Journal of Biological Sciences，影响因子：9.2
+2023-10-17 20:51:37,505 - command check_journal_if is triggered by msg: /if frontiers endocrinology
+2023-10-17 20:51:37,506 - 2023-10-17 20:51:37.506102 - 📖：  frontiers endocrinology
+2023-10-17 20:51:39,497 - 2023-10-17 20:51:37.506102 - 🙃回答： 期刊名：FRONTIERS IN NEUROENDOCRINOLOGY，影响因子：7.4
+2023-10-18 04:10:02,130 - Scheduler started
+2023-10-18 04:10:02,708 - [ init ] launched

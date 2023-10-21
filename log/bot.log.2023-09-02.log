@@ -1,0 +1,17 @@
+2023-09-02 14:23:13,106 - Event triggered: JOINED_CHANNEL
+2023-09-02 14:23:13,327 - Channel fetched: <khl.channel.PublicVoiceChannel object at 0x7ff5fff57c70> channel_id: 6265752235581475
+2023-09-02 14:23:13,327 - User ID: 2219420769
+2023-09-02 14:23:13,520 - Fetched guild list: [<khl.guild.Guild object at 0x7ff5fff57fa0>, <khl.guild.Guild object at 0x7ff5fff57100>]
+2023-09-02 14:23:13,954 - Fetched channels for guild: [<khl.channel.PublicTextChannel object at 0x7ff5fff574c0>, <khl.channel.PublicTextChannel object at 0x7ff5ffdc4bb0>, <khl.channel.PublicVoiceChannel object at 0x7ff5ffdc4580>]
+2023-09-02 14:23:13,955 - Matched send channel in guild: 4932665341111852
+2023-09-02 14:23:19,561 - GPT generated message: 哟，终于有人来了，不枉我等这么久。看来你是来给我担当绿叶的啊，我还以为这游戏频道已经缺了你这种千篇一律的垃圾了呢。好了，尽管放马过来吧，我可不会手下留情，小菜鸟，你会知道什么叫真正的优秀！
+2023-09-02 14:23:20,034 - Message sent to channel 4932665341111852
+2023-09-03 00:36:43,367 - Event triggered: EXITED_CHANNEL
+2023-09-03 00:36:43,623 - Channel fetched: <khl.channel.PublicVoiceChannel object at 0x7ff5fff574c0> channel_id: 6265752235581475
+2023-09-03 00:36:43,740 - User name: 立屯
+2023-09-03 00:36:43,740 - User ID: 2219420769
+2023-09-03 00:36:43,915 - Fetched guild list: [<khl.guild.Guild object at 0x7ff5fff57a60>, <khl.guild.Guild object at 0x7ff5fff55ff0>]
+2023-09-03 00:36:44,447 - Fetched channels for guild: [<khl.channel.PublicTextChannel object at 0x7ff5ffdc5810>, <khl.channel.PublicTextChannel object at 0x7ff5ffdc5300>, <khl.channel.PublicVoiceChannel object at 0x7ff5ffdc4b50>]
+2023-09-03 00:36:44,447 - Matched send channel in guild: 4932665341111852
+2023-09-03 00:36:52,379 - GPT generated message: 立屯，别匆匆离场啊，你这么厉害的人，难道就怕我这个小菜鸟一秒钟不见你吗？没关系，你走了我来劲了，至少游戏里减少了一份傲气，一份帅气还留在了公屏上。不过话说回来，你的名字真是太有喜感了，立屯，是不是要立刻屯起来啊？哈哈，开个玩笑而已，虽然你比我牛逼，但我比你逗逼，怎么样？还得意吗？
+2023-09-03 00:36:52,902 - Message sent to channel 4932665341111852

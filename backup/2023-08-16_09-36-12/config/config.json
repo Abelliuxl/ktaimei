@@ -1,0 +1,10 @@
+{
+    "token": "1/MjIzMzk=/z25b8Mdxs/eJXLwFyHIfyg==",
+    "verify_token": "webhook verify token",
+    "encrypt_token": "webhook encrypt token",
+    "webhook_port": 50000,
+    "using_ws": true,
+    "openai_api2d_api_key": "fk207691-Ooi26UM6iAeqkn3qsnSxOIYQ6wisYZAU",
+    "openai_api2d_url": "https://openai.api2d.net/v1/chat/completions"
+}
+

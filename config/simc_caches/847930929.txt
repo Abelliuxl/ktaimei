@@ -1,0 +1,126 @@
+# 豹王 - Brewmaster - 2023-08-19 23:17 - TW/World Tree
+# SimC Addon 10.1.5-03
+# WoW 10.1.5.50791, TOC 100105
+# Requires SimulationCraft 1000-01 or newer
+
+monk="豹王"
+level=70
+race=blood_elf
+region=tw
+server=world_tree
+role=tank
+professions=alchemy=47/
+spec=brewmaster
+
+talents=BwQAa92LNqySTL5b6fvViRevaAAAAAAAkAAAAApEtSSSgkkWjAAAAkSolEJSoUIJtcgkSSAaSkWalEB
+
+# Saved Loadout: 123
+# talents=BwQAa92LNqySTL5b6fvViRevaAAAAAAAkAAAAApEtSSSgkkWjAAAAkSolEJSoUIJtcgkSSAaSkWalEB
+
+# 朱锻阳帽 (428)
+head=,id=202506,bonus_id=6652/9415/9330/9229/1485
+# 海象人骨制项链 (428)
+neck=,id=193666,bonus_id=9330/6652/9415/8783/9144/1650/8767
+# 朱锻肩脊 (411)
+shoulder=,id=202504,bonus_id=6652/9411/8096/9227/9316/1468/8767
+# 波动的孢子披风  (424)
+back=,id=205025,enchant_id=6592,bonus_id=8836/8840/8902/8960/9405/9366,crafting_quality=5
+# 朱锻胸甲 (411)
+chest=,id=202509,enchant_id=6625,bonus_id=6652/9231/9316/1462/8767
+# 公会徽章 (1)
+tabard=,id=5976
+# 复杂得毫无必要的腕甲  (424)
+wrist=,id=198327,gem_id=201409,bonus_id=8836/8840/8902/9405/8948/8865/9366/9414,crafted_stats=36,crafting_quality=5
+# 命缚手套  (424)
+hands=,id=193418,bonus_id=8836/8840/8902/9405/8790/9366,crafted_stats=49/36,crafting_quality=5
+# 邪恶落烬束带 (402)
+waist=,id=134455,bonus_id=9313/6652/9414/9223/9219/9144/3281/8767
+# 朱锻长裤 (415)
+legs=,id=202505,enchant_id=6543,bonus_id=6652/9228/9317/1472/8767
+# 库拉格的索具攀登靴 (411)
+feet=,id=155862,enchant_id=6613,bonus_id=6652/9223/9219/9144/9316/3281/8767
+# 可疑忠诚印戒 (424)
+finger1=,id=158314,enchant_id=6556,bonus_id=9324/6652/9414/9144/3294/8767
+# 冻雨指环 (418)
+finger2=,id=206185,bonus_id=9322/6652/9415/9144/1640/8767
+# 沉睡者的雕像  (424)
+trinket1=,id=193005,bonus_id=8836/8840/8902/9405/9366,crafting_quality=5
+# 萦索孢子囊 (411)
+trinket2=,id=159626,bonus_id=9316/6652/9144/3281/8767
+# 染血的搏浪刀 (411)
+main_hand=,id=159635,enchant_id=6632,bonus_id=9316/6652/9147/3281/8767
+# 龙鳞撕裂者 (408)
+off_hand=,id=193772,bonus_id=9315/6652/9147/1630/8767
+
+### Gear from Bags
+#
+# 静息护符 (418)
+# neck=,id=206183,bonus_id=9322/6652/9414/8783/9144/1640/8767
+#
+# 布罗马奇盗取的项链 (408)
+# neck=,id=193809,gem_id=192948,bonus_id=9315/6652/9144/1630/8767/8783/9413
+#
+# 顶石项圈 (424)
+# neck=,id=134491,bonus_id=9324/6652/9415/8784/9144/3303/8767
+#
+# 护盾项圈  (424)
+# neck=,id=193002,gem_id=192945/192945/192945,bonus_id=8836/8840/8902/8960/9477/8782/9405/8793/9366,crafted_stats=40/36,crafting_quality=5
+#
+# 朱锻胸甲 (424)
+# chest=,id=202509,enchant_id=6625,bonus_id=6652/9324/9231/1475
+#
+# 老水手的护腕 (408)
+# wrist=,id=158305,bonus_id=9315/6652/9415/9223/9220/9144/3278/8767
+#
+# 充盈之握 (405)
+# hands=,id=204781,bonus_id=9314/6652/9223/9218/1527/8767
+#
+# 吸血蛛腰带 (424)
+# waist=,id=159325,gem_id=192948,bonus_id=6652/9413/9223/9219/9144/9320/3294/8767
+#
+# 看护者的职责腰甲 (411)
+# waist=,id=193744,bonus_id=9316/6652/9414/9223/9219/9144/1633/8767
+#
+# 朱锻长裤 (441)
+# legs=,id=202505,enchant_id=6544,bonus_id=6652/9380/9228/1498
+#
+# 战熊热裤 (28)
+# legs=,id=15065
+#
+# 库拉格的索具攀登靴 (408)
+# feet=,id=155862,bonus_id=9315/6652/9223/9219/9144/3278/8767
+#
+# 可疑忠诚印戒 (415)
+# finger1=,id=158314,enchant_id=6556,bonus_id=9321/6652/9415/9144/3285/8767
+#
+# 脉动血管指环 (424)
+# finger1=,id=159463,enchant_id=6556,gem_id=192948,bonus_id=6652/9413/9144/9320/3294/8767
+#
+# 流水脉动之心 (424)
+# trinket1=,id=193736,bonus_id=6652/9144/9320/1646/8767
+#
+# 卓格巴尔岩石 (398)
+# trinket1=,id=204810,bonus_id=6652/9501/9301/1620/8766
+#
+# 瓦兰奈尔的超因果碎片 (424)
+# trinket1=,id=206958,bonus_id=6652/9320/1494/8767
+#
+# 巨龙剥皮者的沸腾短剑 (382)
+# main_hand=,id=192024,enchant_id=6632,bonus_id=8902/6652/9296/1504/8766
+#
+# 耀光群岛之柱  (424)
+# main_hand=,id=194898,enchant_id=6643,bonus_id=8836/8840/8902/9405/8793/9237/9366,crafted_stats=32/36,crafting_quality=5
+#
+# 充盈之刃 (402)
+# main_hand=,id=204748,bonus_id=9313/6652/1524/8767
+#
+# 永恒龙塔杖 (411)
+# main_hand=,id=193803,bonus_id=9316/6652/9147/1633/8767
+
+### Additional Character Info
+#
+# upgrade_currencies=c:2245:549/i:204195:3/i:204193:9/i:190453:5/i:204194:3/i:198056:1/i:204196:5
+#
+# slot_high_watermarks=0:428:428/1:428:428/2:411:418/3:424:424/4:424:424/5:441:441/6:411:411/7:424:424/8:424:424/9:424:424/10:424:424/11:424:424/12:424:424/13:14:398/14:411:411/15:408:408/16:153:392
+
+# Checksum: b25fbad4

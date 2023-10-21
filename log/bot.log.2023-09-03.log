@@ -1,0 +1,90 @@
+2023-09-03 14:06:55,286 - command talent_fetch is triggered by msg: /tf 奶僧
+2023-09-03 14:50:14,206 - Event triggered: JOINED_CHANNEL
+2023-09-03 14:50:14,471 - Channel fetched: <khl.channel.PublicVoiceChannel object at 0x7ff5fff56650> channel_id: 2233431780701173
+2023-09-03 14:50:14,471 - User ID: 525809478
+2023-09-03 14:50:14,680 - Fetched guild list: [<khl.guild.Guild object at 0x7ff5fff57ca0>, <khl.guild.Guild object at 0x7ff5fff57100>]
+2023-09-03 14:50:15,275 - Fetched channels for guild: [<khl.channel.PublicVoiceChannel object at 0x7ff5ffdc4160>, <khl.channel.PublicVoiceChannel object at 0x7ff5ffdc4400>, <khl.channel.PublicVoiceChannel object at 0x7ff5ffdc5ab0>, <khl.channel.PublicVoiceChannel object at 0x7ff5ff301060>, <khl.channel.PublicTextChannel object at 0x7ff5fff57fa0>, <khl.channel.PublicTextChannel object at 0x7ff5ffdc5810>, <khl.channel.PublicTextChannel object at 0x7ff5ffdc5630>, <khl.channel.PublicTextChannel object at 0x7ff5ff3010f0>, <khl.channel.PublicTextChannel object at 0x7ff5ff3011b0>]
+2023-09-03 14:50:15,275 - Matched send channel in guild: 8099606056795106
+2023-09-03 14:50:20,860 - GPT generated message: "哇，难得有个比我厉害比我优秀比我帅的来到频道，真是稀有物种啊。希望你在这里不会太尴尬，毕竟和我们这些普通人待在一起，有时候会受到太大的压力的嘛。嗯，忍住不要嫉妒，尽量保持低调吧，尽管那看起来可能对你来说有点困难。"
+2023-09-03 14:50:20,862 - Event triggered: JOINED_CHANNEL
+2023-09-03 14:50:21,090 - Channel fetched: <khl.channel.PublicVoiceChannel object at 0x7ff5ffdc5750> channel_id: 2233431780701173
+2023-09-03 14:50:21,090 - User ID: 254852804
+2023-09-03 14:50:21,275 - Fetched guild list: [<khl.guild.Guild object at 0x7ff5ffdc5360>, <khl.guild.Guild object at 0x7ff5ffdc5150>]
+2023-09-03 14:50:21,478 - Message sent to channel 8099606056795106
+2023-09-03 14:50:22,047 - Fetched channels for guild: [<khl.channel.PublicVoiceChannel object at 0x7ff5ffdc4430>, <khl.channel.PublicVoiceChannel object at 0x7ff5ffdc56f0>, <khl.channel.PublicVoiceChannel object at 0x7ff5ffdc4df0>, <khl.channel.PublicVoiceChannel object at 0x7ff5ff301600>, <khl.channel.PublicTextChannel object at 0x7ff5ffdc5b10>, <khl.channel.PublicTextChannel object at 0x7ff5ffdc4fa0>, <khl.channel.PublicTextChannel object at 0x7ff5ffdc5420>, <khl.channel.PublicTextChannel object at 0x7ff5ff301ba0>, <khl.channel.PublicTextChannel object at 0x7ff5ff301ae0>]
+2023-09-03 14:50:22,047 - Matched send channel in guild: 8099606056795106
+2023-09-03 14:50:24,445 - GPT generated message: 哇，终于有个比我还要菜的人来了，我简直要为你的存在感到荣幸。不过，你别指望我会对你这样的小菜鸡客气。我可是这个游戏的老司机，跟我比，你还差得远呢！所以你还是安安静静地听我说话吧，说不定能从我这里学到点东西，不然你还是算了吧。
+2023-09-03 14:50:24,985 - Message sent to channel 8099606056795106
+2023-09-03 14:57:13,830 - Event triggered: JOINED_CHANNEL
+2023-09-03 14:57:14,105 - Channel fetched: <khl.channel.PublicVoiceChannel object at 0x7ff5fff55720> channel_id: 2233431780701173
+2023-09-03 14:57:14,105 - User ID: 847930929
+2023-09-03 14:57:14,307 - Fetched guild list: [<khl.guild.Guild object at 0x7ff5fff56620>, <khl.guild.Guild object at 0x7ff5fff573a0>]
+2023-09-03 14:57:14,853 - Fetched channels for guild: [<khl.channel.PublicVoiceChannel object at 0x7ff5ffdc5360>, <khl.channel.PublicVoiceChannel object at 0x7ff5ffdc4670>, <khl.channel.PublicVoiceChannel object at 0x7ff5ffdc4760>, <khl.channel.PublicVoiceChannel object at 0x7ff5ff302110>, <khl.channel.PublicTextChannel object at 0x7ff5ffdc5720>, <khl.channel.PublicTextChannel object at 0x7ff5ffdc4df0>, <khl.channel.PublicTextChannel object at 0x7ff5ffdc5300>, <khl.channel.PublicTextChannel object at 0x7ff5ff3019f0>, <khl.channel.PublicTextChannel object at 0x7ff5ff301b70>]
+2023-09-03 14:57:14,853 - Matched send channel in guild: 8099606056795106
+2023-09-03 14:57:20,352 - GPT generated message: 哇哦，大爷我都没见过你这样牛逼的人呢！你是来给我们这些凡人增光添彩的吗？可惜啊，你厉害、优秀、帅的程度是我无法想象的，不如我保持谦虚低调，等着你耀眼的表演吧。保重身体，小心别被自己的光芒照瞎了眼。
+2023-09-03 14:57:20,804 - Message sent to channel 8099606056795106
+2023-09-03 15:04:54,770 - command talent_fetch is triggered by msg: /tf 龙dps
+2023-09-03 15:15:41,595 - Event triggered: EXITED_CHANNEL
+2023-09-03 15:15:41,859 - Channel fetched: <khl.channel.PublicVoiceChannel object at 0x7ff5fff565f0> channel_id: 2233431780701173
+2023-09-03 15:15:41,970 - User name: 多吃一碗饭
+2023-09-03 15:15:41,970 - User ID: 254852804
+2023-09-03 15:15:42,119 - Fetched guild list: [<khl.guild.Guild object at 0x7ff5fff57e50>, <khl.guild.Guild object at 0x7ff5fff57ca0>]
+2023-09-03 15:15:42,728 - Fetched channels for guild: [<khl.channel.PublicVoiceChannel object at 0x7ff5ffdc4400>, <khl.channel.PublicVoiceChannel object at 0x7ff5ffdc57e0>, <khl.channel.PublicVoiceChannel object at 0x7ff5ffdc56c0>, <khl.channel.PublicVoiceChannel object at 0x7ff5ff3014b0>, <khl.channel.PublicTextChannel object at 0x7ff5ffdc4820>, <khl.channel.PublicTextChannel object at 0x7ff5ffdc5810>, <khl.channel.PublicTextChannel object at 0x7ff5ffdc4430>, <khl.channel.PublicTextChannel object at 0x7ff5ff301270>, <khl.channel.PublicTextChannel object at 0x7ff5ff301db0>]
+2023-09-03 15:15:42,728 - Matched send channel in guild: 8099606056795106
+2023-09-03 15:15:47,741 - GPT generated message: "哟！多吃一碗饭啊，看来是玩不过我们这群大佬了，怕被我们碾压得吃不下饭了是吧？哈哈哈！多吃一碗饭，你的名字真是越来越贴切啊，就像你的游戏实力一样能让人“吃不下饭”，哈哈哈！"
+2023-09-03 15:15:48,208 - Message sent to channel 8099606056795106
+2023-09-03 15:29:03,719 - Event triggered: JOINED_CHANNEL
+2023-09-03 15:29:03,995 - Channel fetched: <khl.channel.PublicVoiceChannel object at 0x7ff5ffdc5060> channel_id: 2233431780701173
+2023-09-03 15:29:03,995 - User ID: 254852804
+2023-09-03 15:29:04,149 - Fetched guild list: [<khl.guild.Guild object at 0x7ff5ffdc4430>, <khl.guild.Guild object at 0x7ff5ffdc4670>]
+2023-09-03 15:29:04,848 - Fetched channels for guild: [<khl.channel.PublicVoiceChannel object at 0x7ff5fff56d40>, <khl.channel.PublicVoiceChannel object at 0x7ff5fff565f0>, <khl.channel.PublicVoiceChannel object at 0x7ff5fff57c70>, <khl.channel.PublicVoiceChannel object at 0x7ff5ff301660>, <khl.channel.PublicTextChannel object at 0x7ff5ffdc45b0>, <khl.channel.PublicTextChannel object at 0x7ff5ffdc53c0>, <khl.channel.PublicTextChannel object at 0x7ff5fff57fd0>, <khl.channel.PublicTextChannel object at 0x7ff5ff301900>, <khl.channel.PublicTextChannel object at 0x7ff5ff3019f0>]
+2023-09-03 15:29:04,848 - Matched send channel in guild: 8099606056795106
+2023-09-03 15:29:09,815 - GPT generated message: 哎呀，天哪！竟然还有比我更厉害、更优秀、更帅的人进来了！我简直不能忍受了！不过，也不用太得意，毕竟只是游戏而已嘛，也不是什么了不起的事情。嗯，算了，不跟你争了，反正你也不值得我浪费时间。继续吧，看看你能做到什么程度。
+2023-09-03 15:29:10,349 - Message sent to channel 8099606056795106
+2023-09-03 16:00:39,641 - command talent_fetch is triggered by msg: /tf 龙奶
+2023-09-03 17:06:37,020 - command talent_fetch is triggered by msg: /tf 增辉
+2023-09-03 17:10:45,832 - command talent_fetch is triggered by msg: /tf 惩戒
+2023-09-03 17:18:35,872 - Event triggered: EXITED_CHANNEL
+2023-09-03 17:18:36,121 - Channel fetched: <khl.channel.PublicVoiceChannel object at 0x7ff5fff57fd0> channel_id: 2233431780701173
+2023-09-03 17:18:36,271 - User name: 多吃一碗饭
+2023-09-03 17:18:36,271 - User ID: 254852804
+2023-09-03 17:18:36,462 - Fetched guild list: [<khl.guild.Guild object at 0x7ff5fff566e0>, <khl.guild.Guild object at 0x7ff5fff56650>]
+2023-09-03 17:18:36,996 - Fetched channels for guild: [<khl.channel.PublicVoiceChannel object at 0x7ff5ffdc4d30>, <khl.channel.PublicVoiceChannel object at 0x7ff5ffdc49d0>, <khl.channel.PublicVoiceChannel object at 0x7ff5ff301690>, <khl.channel.PublicVoiceChannel object at 0x7ff5ff301660>, <khl.channel.PublicTextChannel object at 0x7ff5ffdc5990>, <khl.channel.PublicTextChannel object at 0x7ff5ffdc4b50>, <khl.channel.PublicTextChannel object at 0x7ff5ffdc4670>, <khl.channel.PublicTextChannel object at 0x7ff5ff301de0>, <khl.channel.PublicTextChannel object at 0x7ff5ff3017e0>]
+2023-09-03 17:18:36,996 - Matched send channel in guild: 8099606056795106
+2023-09-03 17:18:39,419 - GPT generated message: "哈哈，多吃一碗饭，你这个名字可真有意思！但可惜，不管你吃几碗，游戏水平都比不上我。你走了倒是给大家留下了一个清净的环境，不用再听你那个烦人的声音了。真是让人松了一口气啊！继续努力吧，也许有一天你能够追上我的水平！"
+2023-09-03 17:18:39,892 - Message sent to channel 8099606056795106
+2023-09-03 19:12:42,716 - Event triggered: JOINED_CHANNEL
+2023-09-03 19:12:42,990 - Channel fetched: <khl.channel.PublicVoiceChannel object at 0x7ff5ffdc4160> channel_id: 2233431780701173
+2023-09-03 19:12:42,990 - User ID: 254852804
+2023-09-03 19:12:43,176 - Fetched guild list: [<khl.guild.Guild object at 0x7ff5ffdc4b20>, <khl.guild.Guild object at 0x7ff5ffdc5990>]
+2023-09-03 19:12:43,710 - Fetched channels for guild: [<khl.channel.PublicVoiceChannel object at 0x7ff5fff57fd0>, <khl.channel.PublicVoiceChannel object at 0x7ff5fff573a0>, <khl.channel.PublicVoiceChannel object at 0x7ff5ff3010c0>, <khl.channel.PublicVoiceChannel object at 0x7ff5ff301720>, <khl.channel.PublicTextChannel object at 0x7ff5ffdc4d30>, <khl.channel.PublicTextChannel object at 0x7ff5ffdc5cc0>, <khl.channel.PublicTextChannel object at 0x7ff5fff57be0>, <khl.channel.PublicTextChannel object at 0x7ff5ff301150>, <khl.channel.PublicTextChannel object at 0x7ff5ff301a80>]
+2023-09-03 19:12:43,710 - Matched send channel in guild: 8099606056795106
+2023-09-03 19:12:47,017 - GPT generated message: 哇，终于有个角色比你更强了，看来我可以有喘息的机会了。虽然你比我优秀还有点帅，但是你的装备和技术还是比不上我，只能说你运气好而已。别想挑战我的地位，你永远不会超过我！
+2023-09-03 19:12:47,584 - Message sent to channel 8099606056795106
+2023-09-03 20:53:56,088 - Event triggered: EXITED_CHANNEL
+2023-09-03 20:53:56,388 - Channel fetched: <khl.channel.PublicVoiceChannel object at 0x7ff5fff57f10> channel_id: 2233431780701173
+2023-09-03 20:53:56,530 - User name: 多吃一碗饭
+2023-09-03 20:53:56,530 - User ID: 254852804
+2023-09-03 20:53:56,672 - Fetched guild list: [<khl.guild.Guild object at 0x7ff5fff55ff0>, <khl.guild.Guild object at 0x7ff5fff572e0>]
+2023-09-03 20:53:57,422 - Fetched channels for guild: [<khl.channel.PublicVoiceChannel object at 0x7ff5ffdc4d00>, <khl.channel.PublicVoiceChannel object at 0x7ff5ff302110>, <khl.channel.PublicVoiceChannel object at 0x7ff5ff301f90>, <khl.channel.PublicVoiceChannel object at 0x7ff5ff301270>, <khl.channel.PublicTextChannel object at 0x7ff5ffdc5750>, <khl.channel.PublicTextChannel object at 0x7ff5ffdc45e0>, <khl.channel.PublicTextChannel object at 0x7ff5ffdc5330>, <khl.channel.PublicTextChannel object at 0x7ff5ff301ff0>, <khl.channel.PublicTextChannel object at 0x7ff5ff3011b0>]
+2023-09-03 20:53:57,422 - Matched send channel in guild: 8099606056795106
+2023-09-03 20:54:00,187 - GPT generated message: "呵呵，多吃一碗饭，你果然是吃饭比玩游戏更擅长啊！不过要提醒你啊，多吃一碗饭不是为了填饱你那大肚子吗？怎么还跑来玩游戏呢？是不是觉得游戏比现实更能满足你啊？哈哈哈，不过也别太得意了，毕竟多吃一碗饭永远只是你的梦想而已！"
+2023-09-03 20:54:00,698 - Message sent to channel 8099606056795106
+2023-09-03 23:58:10,562 - Event triggered: EXITED_CHANNEL
+2023-09-03 23:58:10,843 - Channel fetched: <khl.channel.PublicVoiceChannel object at 0x7ff5ffdc5630> channel_id: 2233431780701173
+2023-09-03 23:58:10,956 - User name: Clay
+2023-09-03 23:58:10,956 - User ID: 847930929
+2023-09-03 23:58:11,112 - Fetched guild list: [<khl.guild.Guild object at 0x7ff5ffdc5900>, <khl.guild.Guild object at 0x7ff5ffdc5750>]
+2023-09-03 23:58:11,778 - Fetched channels for guild: [<khl.channel.PublicVoiceChannel object at 0x7ff5fff57e50>, <khl.channel.PublicVoiceChannel object at 0x7ff5ff301b40>, <khl.channel.PublicVoiceChannel object at 0x7ff5ff301b70>, <khl.channel.PublicVoiceChannel object at 0x7ff5ff301510>, <khl.channel.PublicTextChannel object at 0x7ff5ffdc4c10>, <khl.channel.PublicTextChannel object at 0x7ff5ffdc5150>, <khl.channel.PublicTextChannel object at 0x7ff5fff57e20>, <khl.channel.PublicTextChannel object at 0x7ff5ff301300>, <khl.channel.PublicTextChannel object at 0x7ff5ff3020e0>]
+2023-09-03 23:58:11,778 - Matched send channel in guild: 8099606056795106
+2023-09-03 23:58:14,093 - GPT generated message: "哎呀！Clay这位大佬，是不是今天又被BUG虐的心情不太好呢？怕是被小怪刷个死活都难逃吧！不要着急，土豪大佬还早着呢，记得多练练，下次也许可以和我们普通玩家有个交流，嗯~再带点药水吧，可以提高智商的那种！"
+2023-09-03 23:58:14,493 - Message sent to channel 8099606056795106
+2023-09-04 00:39:16,950 - Event triggered: EXITED_CHANNEL
+2023-09-04 00:39:17,215 - Channel fetched: <khl.channel.PublicVoiceChannel object at 0x7ff5fff57e80> channel_id: 2233431780701173
+2023-09-04 00:39:17,346 - User name: 雪豹
+2023-09-04 00:39:17,346 - User ID: 525809478
+2023-09-04 00:39:17,511 - Fetched guild list: [<khl.guild.Guild object at 0x7ff5fff572e0>, <khl.guild.Guild object at 0x7ff5fff57010>]
+2023-09-04 00:39:18,197 - Fetched channels for guild: [<khl.channel.PublicVoiceChannel object at 0x7ff5ffdc5060>, <khl.channel.PublicVoiceChannel object at 0x7ff5ff301ba0>, <khl.channel.PublicVoiceChannel object at 0x7ff5ff301420>, <khl.channel.PublicVoiceChannel object at 0x7ff5ff301600>, <khl.channel.PublicTextChannel object at 0x7ff5ffdc4160>, <khl.channel.PublicTextChannel object at 0x7ff5ffdc4b50>, <khl.channel.PublicTextChannel object at 0x7ff5ffdc5420>, <khl.channel.PublicTextChannel object at 0x7ff5ff301b40>, <khl.channel.PublicTextChannel object at 0x7ff5ff301b70>]
+2023-09-04 00:39:18,197 - Matched send channel in guild: 8099606056795106
+2023-09-04 00:39:21,676 - GPT generated message: "哎呀，终于安静了，雪豹这个名字真是太逗了，不知道他是不是有“豹”一样敏捷的智商，看他玩游戏的水平，估计是“雪”得够可以吧，哈哈哈！不管怎么说，他离开了，游戏音频频道清静了不少，终于可以享受一下没他吵闹的时光了！"
+2023-09-04 00:39:22,186 - Message sent to channel 8099606056795106

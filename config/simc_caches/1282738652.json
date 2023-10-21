@@ -1,0 +1,204 @@
+{
+    "# 水晶学士的风帽": {
+        "level": 395,
+        "attributes": {
+            "part": "# head",
+            "id": 200318,
+            "bonus_id": "6652/7937/7977/8828/8967/1469/8767",
+            "chossen": false
+        }
+    },
+    "# 优良的雷暴护肩": {
+        "level": 329,
+        "attributes": {
+            "part": "# shoulder",
+            "id": 122376,
+            "bonus_id": "9354",
+            "chossen": false
+        }
+    },
+    "# 蒙福欧恩伊尔长袍": {
+        "level": 402,
+        "attributes": {
+            "part": "# chest",
+            "id": 193683,
+            "bonus_id": "8969/7977/6652/8822/8820/9144/1624/8767",
+            "chossen": false
+        }
+    },
+    "# 脏污的迅影外套": {
+        "level": 329,
+        "attributes": {
+            "part": "# chest",
+            "id": 122383,
+            "bonus_id": "9354",
+            "chossen": false
+        }
+    },
+    "# 骨语长袍": {
+        "level": 405,
+        "attributes": {
+            "part": "# chest",
+            "id": 134219,
+            "bonus_id": "8970/7977/6652/8822/8820/9144/3284/8767",
+            "chossen": false
+        }
+    },
+    "# 奥秘护腕": {
+        "level": 398,
+        "attributes": {
+            "part": "# wrist",
+            "id": 109864,
+            "bonus_id": "8968/7977/6652/7937/8822/8819/9144/3283/8767",
+            "chossen": false
+        }
+    },
+    "# 灭法者裹腕": {
+        "level": 402,
+        "attributes": {
+            "part": "# wrist",
+            "id": 134310,
+            "bonus_id": "8969/7977/6652/7937/8822/8819/9144/3281/8767",
+            "chossen": false
+        }
+    },
+    "# 快刀之海岛诱捕者的束腕": {
+        "level": 292,
+        "attributes": {
+            "part": "# wrist",
+            "id": 198997,
+            "bonus_id": "7968/6652/7936/1676,",
+            "chossen": false
+        }
+    },
+    "# 探险队研究员的束腕": {
+        "level": 333,
+        "attributes": {
+            "part": "# wrist",
+            "id": 194411,
+            "bonus_id": "8768/8769,",
+            "chossen": false
+        }
+    },
+    "# 水晶学士的马裤": {
+        "level": 411,
+        "attributes": {
+            "part": "# legs",
+            "id": 200319,
+            "enchant_id": 6541,
+            "bonus_id": "6652/7977/8827/8972/1494/8767",
+            "chossen": false
+        }
+    },
+    "# 探险队研究员的护腿": {
+        "level": 323,
+        "attributes": {
+            "part": "# legs",
+            "id": 194351,
+            "bonus_id": "8768,",
+            "chossen": false
+        }
+    },
+    "# 不稳时序指环": {
+        "level": 389,
+        "attributes": {
+            "part": "# finger1",
+            "id": 201960,
+            "enchant_id": 6562,
+            "bonus_id": "7936/1489/9377",
+            "chossen": false
+        }
+    },
+    "# 晶泪之戒": {
+        "level": 402,
+        "attributes": {
+            "part": "# finger1",
+            "id": 144112,
+            "enchant_id": 6562,
+            "bonus_id": "7977/6652/7937/9144/8969/3292/8767",
+            "chossen": false
+        }
+    },
+    "# 雷鸣暴流指环": {
+        "level": 392,
+        "attributes": {
+            "part": "# finger1",
+            "id": 193696,
+            "enchant_id": 6562,
+            "bonus_id": "8966/7977/6652/7936/9144/1614/8767",
+            "chossen": false
+        }
+    },
+    "# 安布雷斯库的破裂之心": {
+        "level": 402,
+        "attributes": {
+            "part": "# trinket1",
+            "id": 193639,
+            "bonus_id": "8969/7977/42/9144/1624/8767",
+            "chossen": false
+        }
+    },
+    "# 高贵的乔丹法杖": {
+        "level": 329,
+        "attributes": {
+            "part": "# main_hand",
+            "id": 122368,
+            "bonus_id": "9354",
+            "chossen": false
+        }
+    },
+    "# 殿堂之匙": {
+        "level": 398,
+        "attributes": {
+            "part": "# main_hand",
+            "id": 201997,
+            "bonus_id": "8968/7977/6652/9147/1620/8767",
+            "chossen": false
+        }
+    },
+    "# 破旧的雷德神圣控诉者": {
+        "level": 329,
+        "attributes": {
+            "part": "# main_hand",
+            "id": 122351,
+            "bonus_id": "9354",
+            "chossen": false
+        }
+    },
+    "# 狂飙风暴法杖": {
+        "level": 402,
+        "attributes": {
+            "part": "# main_hand",
+            "id": 193699,
+            "enchant_id": 6639,
+            "bonus_id": "8969/7977/6652/9147/1624/8767",
+            "chossen": false
+        }
+    },
+    "# 抛光的典狱官法杖": {
+        "level": 329,
+        "attributes": {
+            "part": "# main_hand",
+            "id": 122363,
+            "bonus_id": "9354",
+            "chossen": false
+        }
+    },
+    "# 发霉的失落之书": {
+        "level": 329,
+        "attributes": {
+            "part": "# off_hand",
+            "id": 122390,
+            "chossen": false
+        }
+    },
+    "# 柯姬雅的熄火短杖": {
+        "level": 392,
+        "attributes": {
+            "part": "# off_hand",
+            "id": 193766,
+            "bonus_id": "8966/7977/6652/9144/1614/8767",
+            "chossen": false
+        }
+    }
+}

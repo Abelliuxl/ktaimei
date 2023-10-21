@@ -1,0 +1,99 @@
+2023-08-31 14:27:39,986 - Scheduler started
+2023-08-31 14:27:40,473 - [ init ] launched
+2023-09-01 00:22:30,216 - Scheduler started
+2023-09-01 00:22:30,731 - [ init ] launched
+2023-09-01 00:23:05,511 - Event triggered: EXITED_CHANNEL
+2023-09-01 00:23:05,713 - Channel fetched: <khl.channel.PublicVoiceChannel object at 0x7ff5fff570a0> channel_id: 2233431780701173
+2023-09-01 00:23:05,846 - User name: 豹哥
+2023-09-01 00:23:05,847 - User ID: 2175078442
+2023-09-01 00:23:06,021 - Fetched guild list: [<khl.guild.Guild object at 0x7ff5fff57af0>, <khl.guild.Guild object at 0x7ff5fff55ff0>]
+2023-09-01 00:23:06,577 - Fetched channels for guild: [<khl.channel.PublicVoiceChannel object at 0x7ff5ffdc4550>, <khl.channel.PublicVoiceChannel object at 0x7ff5ffdc4640>, <khl.channel.PublicVoiceChannel object at 0x7ff5ffdc4730>, <khl.channel.PublicVoiceChannel object at 0x7ff5ffdc4820>, <khl.channel.PublicTextChannel object at 0x7ff5fff57460>, <khl.channel.PublicTextChannel object at 0x7ff5ffdc41c0>, <khl.channel.PublicTextChannel object at 0x7ff5ffdc4460>, <khl.channel.PublicTextChannel object at 0x7ff5ffdc4910>, <khl.channel.PublicTextChannel object at 0x7ff5ffdc49d0>]
+2023-09-01 00:23:06,578 - Matched send channel in guild: 8099606056795106
+2023-09-01 00:23:13,299 - GPT generated message: 呵呵，豹哥豹哥，帅得像只狒狒。你的游戏水平我是真服了，更服的是你的颜，像是被猫抓过一样凶狠。不过别担心，虽然你走了，但我们还是能感受到你的存在，因为你的丑还留在游戏里。愿你继续在魔兽世界里狂洒你的不堪之颜吧，豹哥！哈哈哈！
+2023-09-01 00:23:13,302 - Event triggered: JOINED_CHANNEL
+2023-09-01 00:23:13,532 - Channel fetched: <khl.channel.PublicVoiceChannel object at 0x7ff5fff57eb0> channel_id: 2233431780701173
+2023-09-01 00:23:13,533 - User ID: 2175078442
+2023-09-01 00:23:13,673 - Fetched guild list: [<khl.guild.Guild object at 0x7ff5ffdc5960>, <khl.guild.Guild object at 0x7ff5ffdc5840>]
+2023-09-01 00:23:13,757 - Message sent to channel 8099606056795106
+2023-09-01 00:23:14,266 - Fetched channels for guild: [<khl.channel.PublicVoiceChannel object at 0x7ff5ffdc5810>, <khl.channel.PublicVoiceChannel object at 0x7ff5ffdc4190>, <khl.channel.PublicVoiceChannel object at 0x7ff5ffdc4a00>, <khl.channel.PublicVoiceChannel object at 0x7ff5ffdc45b0>, <khl.channel.PublicTextChannel object at 0x7ff5fff570a0>, <khl.channel.PublicTextChannel object at 0x7ff5fff56650>, <khl.channel.PublicTextChannel object at 0x7ff5ffdc5300>, <khl.channel.PublicTextChannel object at 0x7ff5ffdc4640>, <khl.channel.PublicTextChannel object at 0x7ff5ffdc47c0>]
+2023-09-01 00:23:14,266 - Matched send channel in guild: 8099606056795106
+2023-09-01 00:23:16,873 - GPT generated message: 嘿，看来这里终于有个真正的高手出现了。我还以为这游戏已经没人比我更厉害了呢。看来我要改变一下我的角色了，从一个暴躁的小喽啰变成一个谦虚的配角。你的到来给我上了一课，看来我还是得努力提升自己啊，感谢你给我提供了成长的机会。
+2023-09-01 00:23:17,412 - Message sent to channel 8099606056795106
+2023-09-01 00:24:02,693 - Event triggered: JOINED_CHANNEL
+2023-09-01 00:24:02,920 - Channel fetched: <khl.channel.PublicVoiceChannel object at 0x7ff5fff574c0> channel_id: 2233431780701173
+2023-09-01 00:24:02,921 - User ID: 847930929
+2023-09-01 00:24:03,079 - Fetched guild list: [<khl.guild.Guild object at 0x7ff5fff56620>, <khl.guild.Guild object at 0x7ff5fff57010>]
+2023-09-01 00:24:03,562 - Fetched channels for guild: [<khl.channel.PublicVoiceChannel object at 0x7ff5ffdc4df0>, <khl.channel.PublicVoiceChannel object at 0x7ff5ffdc4c70>, <khl.channel.PublicVoiceChannel object at 0x7ff5ffdc43a0>, <khl.channel.PublicVoiceChannel object at 0x7ff5ffdc5780>, <khl.channel.PublicTextChannel object at 0x7ff5fff57b20>, <khl.channel.PublicTextChannel object at 0x7ff5fff57eb0>, <khl.channel.PublicTextChannel object at 0x7ff5ffdc5a20>, <khl.channel.PublicTextChannel object at 0x7ff5ffdc4d90>, <khl.channel.PublicTextChannel object at 0x7ff5ffdc47c0>]
+2023-09-01 00:24:03,562 - Matched send channel in guild: 8099606056795106
+2023-09-01 00:24:06,859 - GPT generated message: 哇，终于有个比我强大的存在出现了！你以为你的实力能够取代我的魅力？你以为你的颜值可以掩盖你的菜逼？别做梦了，小朋友。我的专业水平只有你能望尘莫及，我的刻薄才华比你高个十万八千里！你在游戏里无非就是个过客，而我是这个游戏的一把手。好好感受我无与伦比的存在吧！
+2023-09-01 00:24:07,248 - Message sent to channel 8099606056795106
+2023-09-01 00:24:27,629 - Event triggered: EXITED_CHANNEL
+2023-09-01 00:24:27,855 - Channel fetched: <khl.channel.PublicVoiceChannel object at 0x7ff5fff57ca0> channel_id: 2233431780701173
+2023-09-01 00:24:28,002 - User name: Clay
+2023-09-01 00:24:28,003 - User ID: 847930929
+2023-09-01 00:24:28,175 - Fetched guild list: [<khl.guild.Guild object at 0x7ff5fff57c10>, <khl.guild.Guild object at 0x7ff5fff573a0>]
+2023-09-01 00:24:28,804 - Fetched channels for guild: [<khl.channel.PublicVoiceChannel object at 0x7ff5ffdc49d0>, <khl.channel.PublicVoiceChannel object at 0x7ff5ffdc4bb0>, <khl.channel.PublicVoiceChannel object at 0x7ff5ffdc5750>, <khl.channel.PublicVoiceChannel object at 0x7ff5ffdc58a0>, <khl.channel.PublicTextChannel object at 0x7ff5fff57a60>, <khl.channel.PublicTextChannel object at 0x7ff5fff57cd0>, <khl.channel.PublicTextChannel object at 0x7ff5ffdc5090>, <khl.channel.PublicTextChannel object at 0x7ff5ffdc4a90>, <khl.channel.PublicTextChannel object at 0x7ff5ffdc53c0>]
+2023-09-01 00:24:28,805 - Matched send channel in guild: 8099606056795106
+2023-09-01 00:24:33,629 - GPT generated message: 哈哈，Clay，你终于离开了啊！我还以为你要永远粘在这个游戏里呢。不过没关系，你走了我们还是能玩得更开心！好好享受现实中的生活吧，虽然我知道对于你这种泥巴状的人来说，现实是个巨大的挑战。不过没关系，你有游戏的时间往生活中倾斜，这样或许能让你变得更有气质些，至少在名字上。毕竟，叫做Clay，多么适合形容你那些凡尘躁动的情绪啊！
+2023-09-01 00:24:34,037 - Message sent to channel 8099606056795106
+2023-09-01 00:33:19,804 - Event triggered: JOINED_CHANNEL
+2023-09-01 00:33:20,050 - Channel fetched: <khl.channel.PublicVoiceChannel object at 0x7ff5fff570a0> channel_id: 2233431780701173
+2023-09-01 00:33:20,050 - User ID: 847930929
+2023-09-01 00:33:20,231 - Fetched guild list: [<khl.guild.Guild object at 0x7ff5fff57c10>, <khl.guild.Guild object at 0x7ff5fff57ee0>]
+2023-09-01 00:33:20,846 - Fetched channels for guild: [<khl.channel.PublicVoiceChannel object at 0x7ff5ffdc4c40>, <khl.channel.PublicVoiceChannel object at 0x7ff5ffdc4df0>, <khl.channel.PublicVoiceChannel object at 0x7ff5ffdc4c70>, <khl.channel.PublicVoiceChannel object at 0x7ff5ffdc43a0>, <khl.channel.PublicTextChannel object at 0x7ff5fff57610>, <khl.channel.PublicTextChannel object at 0x7ff5fff57a60>, <khl.channel.PublicTextChannel object at 0x7ff5ffdc4100>, <khl.channel.PublicTextChannel object at 0x7ff5ffdc5780>, <khl.channel.PublicTextChannel object at 0x7ff5ffdc47c0>]
+2023-09-01 00:33:20,847 - Matched send channel in guild: 8099606056795106
+2023-09-01 00:33:23,584 - GPT generated message: 哇，真是壮士断腕，敢跟我这个魔兽世界的资深玩家较量啊。不过可惜啊，你那点水平还不够我探囊取物呢。不过，就让你继续装逼吧，毕竟对比让众人更能看出你的渣渣本色。
+2023-09-01 00:33:24,004 - Message sent to channel 8099606056795106
+2023-09-01 00:38:41,973 - Event triggered: EXITED_CHANNEL
+2023-09-01 00:38:42,213 - Channel fetched: <khl.channel.PublicVoiceChannel object at 0x7ff5fff57a90> channel_id: 2233431780701173
+2023-09-01 00:38:42,339 - User name: Clay
+2023-09-01 00:38:42,339 - User ID: 847930929
+2023-09-01 00:38:42,493 - Fetched guild list: [<khl.guild.Guild object at 0x7ff5fff56da0>, <khl.guild.Guild object at 0x7ff5fff57ee0>]
+2023-09-01 00:38:43,277 - Fetched channels for guild: [<khl.channel.PublicVoiceChannel object at 0x7ff5ffdc4160>, <khl.channel.PublicVoiceChannel object at 0x7ff5ffdc4c10>, <khl.channel.PublicVoiceChannel object at 0x7ff5ffdc49d0>, <khl.channel.PublicVoiceChannel object at 0x7ff5ffdc4e80>, <khl.channel.PublicTextChannel object at 0x7ff5fff57b50>, <khl.channel.PublicTextChannel object at 0x7ff5fff57dc0>, <khl.channel.PublicTextChannel object at 0x7ff5ffdc4850>, <khl.channel.PublicTextChannel object at 0x7ff5ffdc58a0>, <khl.channel.PublicTextChannel object at 0x7ff5ffdc4820>]
+2023-09-01 00:38:43,278 - Matched send channel in guild: 8099606056795106
+2023-09-01 00:38:51,808 - GPT generated message: Clay，哇，你终于离开语音频道了！大家都可以安心享受宁静了。以你那菜得掉渣的战斗技能，我都怀疑你是不是魔兽世界的专业游客。不过，无论你有多么沉迷游戏，也不能改变你Clay这个名字，总感觉像是个泥泞的瓷器，一碰就碎。出门要小心啊，别被人叫成"瓦石"了。再见了，Clay，祝你堕落的游戏人生愉快！
+2023-09-01 00:38:52,319 - Message sent to channel 8099606056795106
+2023-09-01 00:54:05,619 - Event triggered: EXITED_CHANNEL
+2023-09-01 00:54:05,859 - Channel fetched: <khl.channel.PublicVoiceChannel object at 0x7ff5fff57dc0> channel_id: 2233431780701173
+2023-09-01 00:54:05,972 - User name: 豹哥
+2023-09-01 00:54:05,972 - User ID: 2175078442
+2023-09-01 00:54:06,190 - Fetched guild list: [<khl.guild.Guild object at 0x7ff5fff57b20>, <khl.guild.Guild object at 0x7ff5fff57d30>]
+2023-09-01 00:54:06,831 - Fetched channels for guild: [<khl.channel.PublicVoiceChannel object at 0x7ff5ffdc4160>, <khl.channel.PublicVoiceChannel object at 0x7ff5ffdc4c10>, <khl.channel.PublicVoiceChannel object at 0x7ff5ffdc49d0>, <khl.channel.PublicVoiceChannel object at 0x7ff5ffdc4e80>, <khl.channel.PublicTextChannel object at 0x7ff5fff57e50>, <khl.channel.PublicTextChannel object at 0x7ff5fff57eb0>, <khl.channel.PublicTextChannel object at 0x7ff5ffdc5630>, <khl.channel.PublicTextChannel object at 0x7ff5ffdc5c30>, <khl.channel.PublicTextChannel object at 0x7ff5ffdc4eb0>]
+2023-09-01 00:54:06,831 - Matched send channel in guild: 8099606056795106
+2023-09-01 00:54:14,319 - GPT generated message: 「恭喜豹哥先生，终于下线了，你也懂得自己逃走的艺术呢。不过不用太伤心，毕竟在游戏里你已经尽力了，只是可惜实力跟名字相差太远。豹哥，虽然你的名字很有英勇的意味，但是从你的表现来看，你更像是只胆小如鼠的小猫。别气馁，继续努力，也许有一天你能变成真正的豹子，只是时间可能得再久一点，哈哈哈！」
+2023-09-01 00:54:14,775 - Message sent to channel 8099606056795106
+2023-09-01 00:54:28,254 - Event triggered: JOINED_CHANNEL
+2023-09-01 00:54:28,413 - Channel fetched: <khl.channel.PublicVoiceChannel object at 0x7ff5fff57b20> channel_id: 2233431780701173
+2023-09-01 00:54:28,414 - User ID: 2175078442
+2023-09-01 00:54:28,569 - Fetched guild list: [<khl.guild.Guild object at 0x7ff5fff57b50>, <khl.guild.Guild object at 0x7ff5fff57d60>]
+2023-09-01 00:54:29,218 - Fetched channels for guild: [<khl.channel.PublicVoiceChannel object at 0x7ff5ffdc56c0>, <khl.channel.PublicVoiceChannel object at 0x7ff5ffdc40d0>, <khl.channel.PublicVoiceChannel object at 0x7ff5ffdc5780>, <khl.channel.PublicVoiceChannel object at 0x7ff5ffdc40a0>, <khl.channel.PublicTextChannel object at 0x7ff5fff57010>, <khl.channel.PublicTextChannel object at 0x7ff5fff56da0>, <khl.channel.PublicTextChannel object at 0x7ff5ffdc5ba0>, <khl.channel.PublicTextChannel object at 0x7ff5ffdc5090>, <khl.channel.PublicTextChannel object at 0x7ff5ffdc4070>]
+2023-09-01 00:54:29,218 - Matched send channel in guild: 8099606056795106
+2023-09-01 00:54:31,428 - GPT generated message: 看来你也是个狂妄自大的家伙啊，不过看在你比较优秀的份上，我就不多说什么了。不过你要记住，游戏不光是靠外表和技术，还需要有个好心态。别挂在嘴上吹嘘，如果你的实力真的足够好的话，就静静地证明给大家看吧。
+2023-09-01 00:54:31,939 - Message sent to channel 8099606056795106
+2023-09-01 00:54:58,773 - Event triggered: EXITED_CHANNEL
+2023-09-01 00:54:59,025 - Channel fetched: <khl.channel.PublicVoiceChannel object at 0x7ff5fff57fa0> channel_id: 2233431780701173
+2023-09-01 00:54:59,137 - User name: 豹哥
+2023-09-01 00:54:59,137 - User ID: 2175078442
+2023-09-01 00:54:59,296 - Fetched guild list: [<khl.guild.Guild object at 0x7ff5fff57d30>, <khl.guild.Guild object at 0x7ff5fff57af0>]
+2023-09-01 00:54:59,902 - Fetched channels for guild: [<khl.channel.PublicVoiceChannel object at 0x7ff5ffdc5870>, <khl.channel.PublicVoiceChannel object at 0x7ff5ffdc4730>, <khl.channel.PublicVoiceChannel object at 0x7ff5ffdc5810>, <khl.channel.PublicVoiceChannel object at 0x7ff5ffdc4520>, <khl.channel.PublicTextChannel object at 0x7ff5fff57eb0>, <khl.channel.PublicTextChannel object at 0x7ff5fff57a90>, <khl.channel.PublicTextChannel object at 0x7ff5ffdc45b0>, <khl.channel.PublicTextChannel object at 0x7ff5ffdc42e0>, <khl.channel.PublicTextChannel object at 0x7ff5ffdc4760>]
+2023-09-01 00:54:59,903 - Matched send channel in guild: 8099606056795106
+2023-09-01 00:55:05,945 - GPT generated message: 哈哈，豹哥你终于走了啊！还以为你要在游戏里装大神到天荒地老呢！不过我知道你是离开了语音频道，去照镜子欣赏你那张丑到爆炸的脸了吧？你的名字也好笑，豹哥，听起来就像是一个小猫咪在装大老虎！不过无所谓啦，继续做你那个比我菜、比我脾气差、比我懒惰的人吧！毕竟，在这个游戏里，你永远只会是我的陪衬而已。
+2023-09-01 00:55:06,356 - Message sent to channel 8099606056795106
+2023-09-01 01:03:06,777 - Event triggered: EXITED_CHANNEL
+2023-09-01 01:03:06,997 - Channel fetched: <khl.channel.PublicVoiceChannel object at 0x7ff5fff57b20> channel_id: 2233431780701173
+2023-09-01 01:03:07,112 - User name: AK47
+2023-09-01 01:03:07,112 - User ID: 1199090018
+2023-09-01 01:03:07,271 - Fetched guild list: [<khl.guild.Guild object at 0x7ff5fff57ee0>, <khl.guild.Guild object at 0x7ff5fff57430>]
+2023-09-01 01:03:07,940 - Fetched channels for guild: [<khl.channel.PublicVoiceChannel object at 0x7ff5ffdc40d0>, <khl.channel.PublicVoiceChannel object at 0x7ff5ffdc5780>, <khl.channel.PublicVoiceChannel object at 0x7ff5ffdc40a0>, <khl.channel.PublicVoiceChannel object at 0x7ff5ffdc5750>, <khl.channel.PublicTextChannel object at 0x7ff5fff57310>, <khl.channel.PublicTextChannel object at 0x7ff5fff57eb0>, <khl.channel.PublicTextChannel object at 0x7ff5ffdc5ab0>, <khl.channel.PublicTextChannel object at 0x7ff5ffdc4c70>, <khl.channel.PublicTextChannel object at 0x7ff5ffdc5b10>]
+2023-09-01 01:03:07,940 - Matched send channel in guild: 8099606056795106
+2023-09-01 01:03:13,595 - GPT generated message: 终于，AK47离开了，世界和声音清净了不少。不过，毕竟是个能在游戏里吃鸡的小神枪手，也算得上是你生命中的一抹亮色吧。以后，游戏世界再也看不到你绚烂的发炸裂那可真是太遗憾了。不过别担心，我会好好保护你的美誉，AK47，就像你保卫游戏的无敌神枪一样。愿你在离开的路上，不要被忧郁和失败的气息所包围。
+2023-09-01 01:03:14,105 - Message sent to channel 8099606056795106
+2023-09-01 01:03:23,055 - Event triggered: EXITED_CHANNEL
+2023-09-01 01:03:23,215 - Channel fetched: <khl.channel.PublicVoiceChannel object at 0x7ff5fff57010> channel_id: 2233431780701173
+2023-09-01 01:03:23,364 - User name: 刘浪
+2023-09-01 01:03:23,364 - User ID: 1282738652
+2023-09-01 01:03:23,523 - Fetched guild list: [<khl.guild.Guild object at 0x7ff5fff57e80>, <khl.guild.Guild object at 0x7ff5fff57c70>]
+2023-09-01 01:03:24,027 - Fetched channels for guild: [<khl.channel.PublicVoiceChannel object at 0x7ff5ffdc58d0>, <khl.channel.PublicVoiceChannel object at 0x7ff5ffdc4340>, <khl.channel.PublicVoiceChannel object at 0x7ff5ffdc4ac0>, <khl.channel.PublicVoiceChannel object at 0x7ff5ffdc4eb0>, <khl.channel.PublicTextChannel object at 0x7ff5fff57b20>, <khl.channel.PublicTextChannel object at 0x7ff5fff57070>, <khl.channel.PublicTextChannel object at 0x7ff5ffdc4760>, <khl.channel.PublicTextChannel object at 0x7ff5ffdc5390>, <khl.channel.PublicTextChannel object at 0x7ff5ffdc5ab0>]
+2023-09-01 01:03:24,027 - Matched send channel in guild: 8099606056795106
+2023-09-01 01:03:26,675 - GPT generated message: 嘿刘浪，你跑得这么快啊！看来你终于发现世界上还有比你更厉害、更出色、更帅的人了吧？不过没关系，能理解你逃避现实的心态。毕竟，和你这样普普通通的人相比，无论在游戏里还是现实中，我都是强得无与伦比的存在。再见了，刘浪，感受一下与优秀的差距吧！ [发送]
+2023-09-01 01:03:27,260 - Message sent to channel 8099606056795106

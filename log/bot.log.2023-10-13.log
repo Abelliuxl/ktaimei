@@ -1,0 +1,52 @@
+2023-10-13 19:08:17,351 - Scheduler started
+2023-10-13 19:08:17,963 - [ init ] launched
+2023-10-13 19:08:48,644 - 2023-10-13 19:08:17.346376 - ❓提问： 你 在吗
+2023-10-13 19:08:50,654 - 2023-10-13 19:08:17.346376 - 🙃回答： 是的，我在这里。有什么我可以帮助你的吗？
+2023-10-13 19:09:02,461 - command talent_fetch is triggered by msg: /tf cjq
+2023-10-13 19:09:19,084 - command talent_fetch is triggered by msg: /tf 惩戒
+2023-10-13 19:09:19,084 - exception raised when handling command: talent_fetch
+Traceback (most recent call last):
+  File "/home/liuxl/.local/lib/python3.10/site-packages/khl/command/command.py", line 146, in handle
+    await self.handler(*predefined_args, *parsed_args)
+  File "/home/liuxl/ktaimei/bot.py", line 243, in talent_fetch
+    result = await fetch_talent_loadouts(content)
+  File "/home/liuxl/ktaimei/raider_talents.py", line 27, in fetch_talent_loadouts
+    with open('/home/liuxl/raider_data/player_info.json') as f:
+FileNotFoundError: [Errno 2] No such file or directory: '/home/liuxl/raider_data/player_info.json'
+2023-10-13 19:10:55,993 - 2023-10-13 19:08:17.346376 - ❓提问： 你 你还在吗
+2023-10-13 19:10:57,899 - 2023-10-13 19:08:17.346376 - 🙃回答： 是的，我还在。有什么我可以帮助您的吗？
+2023-10-13 19:11:39,072 - see you next time
+2023-10-14 00:00:08,904 - Scheduler started
+2023-10-14 00:00:09,525 - [ init ] launched
+2023-10-14 00:00:34,609 - command talent_fetch is triggered by msg: /tf cjq
+2023-10-14 00:06:07,077 - see you next time
+2023-10-14 00:06:20,860 - Scheduler started
+2023-10-14 00:06:21,457 - [ init ] launched
+2023-10-14 00:06:39,393 - command talent_fetch is triggered by msg: /tf cjq
+2023-10-14 00:06:53,806 - see you next time
+2023-10-14 00:06:56,279 - Scheduler started
+2023-10-14 00:06:56,853 - [ init ] launched
+2023-10-14 00:07:02,908 - command talent_fetch is triggered by msg: /tf cjq
+2023-10-14 00:07:09,175 - see you next time
+2023-10-14 00:08:59,915 - Scheduler started
+2023-10-14 00:09:00,493 - [ init ] launched
+2023-10-14 00:09:07,832 - command talent_fetch is triggered by msg: /tf cjq
+2023-10-14 00:12:14,913 - see you next time
+2023-10-14 00:12:17,958 - Scheduler started
+2023-10-14 00:12:18,556 - [ init ] launched
+2023-10-14 00:12:29,866 - command talent_fetch is triggered by msg: /tf cjq
+2023-10-14 00:13:13,285 - see you next time
+2023-10-14 00:27:23,474 - Scheduler started
+2023-10-14 00:27:24,087 - [ init ] launched
+2023-10-14 00:45:05,053 - 2023-10-14 00:27:23.467582 - ❓提问： 你 什么是cs-pcl水凝胶
+2023-10-14 00:45:22,376 - 2023-10-14 00:27:23.467582 - 🙃回答： CS-PCL（Calcium-Sodium Polyacrylate）水凝胶是一种高分子化合物，具有良好的吸水性能。它由聚丙烯酸钠和聚丙烯酸钙两种成分组成，常用于吸附和保持水分的材料。
+
+CS-PCL水凝胶在使用时可以迅速吸收水分，并且能够将吸收的水分保持在凝胶内部，不易流失。这使得它在一些领域得到广泛应用，例如农业、园艺、医疗、卫生和环境保护等。
+
+在农业领域，CS-PCL水凝胶可用于土壤水分保持和植物栽培。它可以吸收并储存大量的水分，供植物在干旱或缺水条件下使用，提高植物的生长和抗旱能力。
+
+在园艺领域，CS-PCL水凝胶可以用于花卉和盆栽植物的养殖和保护。它可以帮助控制土壤湿度，提供植物所需的水分，减少浇水的频率，从而减轻人工管理的工作量。
+
+在医疗领域，CS-PCL水凝胶可用于制备医用敷料和药剂。它可以吸收伤口排出的渗出液，形成凝胶状，保持伤口的湿润环境，加速伤口的愈合过程。
+
+总而言之，CS-PCL水凝胶是一种具有良好吸水性能的材料，可以在多个领域发挥作用，但在使用时需要根据具体情况和要求进行正确的操作。

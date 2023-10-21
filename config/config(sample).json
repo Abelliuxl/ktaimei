@@ -1,0 +1,9 @@
+{
+    "token": "token",
+    "verify_token": "webhook verify token",
+    "encrypt_token": "webhook encrypt token",
+    "webhook_port": 50000,
+    "using_ws": true,
+    "openai_api2d_api_key": "api-key",
+    "openai_api2d_url": "api-url"
+}

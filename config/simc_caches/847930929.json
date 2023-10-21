@@ -1,0 +1,204 @@
+{
+    "# 静息护符": {
+        "level": 418,
+        "attributes": {
+            "part": "# neck",
+            "id": 206183,
+            "bonus_id": "9322/6652/9414/8783/9144/1640/8767",
+            "chossen": true
+        }
+    },
+    "# 布罗马奇盗取的项链": {
+        "level": 408,
+        "attributes": {
+            "part": "# neck",
+            "id": 193809,
+            "gem_id": "192948,",
+            "bonus_id": "9315/6652/9144/1630/8767/8783/9413",
+            "chossen": false
+        }
+    },
+    "# 顶石项圈": {
+        "level": 424,
+        "attributes": {
+            "part": "# neck",
+            "id": 134491,
+            "bonus_id": "9324/6652/9415/8784/9144/3303/8767",
+            "chossen": true
+        }
+    },
+    "# 护盾项圈": {
+        "level": 424,
+        "attributes": {
+            "part": "# neck",
+            "id": 193002,
+            "gem_id": "192945/192945/192945,",
+            "bonus_id": "8836/8840/8902/8960/9477/8782/9405/8793/9366,",
+            "crafted_stats": "40/36,",
+            "crafting_quality": "5",
+            "chossen": true
+        }
+    },
+    "# 朱锻胸甲": {
+        "level": 424,
+        "attributes": {
+            "part": "# chest",
+            "id": 202509,
+            "enchant_id": 6625,
+            "bonus_id": "6652/9324/9231/1475",
+            "chossen": false
+        }
+    },
+    "# 老水手的护腕": {
+        "level": 408,
+        "attributes": {
+            "part": "# wrist",
+            "id": 158305,
+            "bonus_id": "9315/6652/9415/9223/9220/9144/3278/8767",
+            "chossen": false
+        }
+    },
+    "# 充盈之握": {
+        "level": 405,
+        "attributes": {
+            "part": "# hands",
+            "id": 204781,
+            "bonus_id": "9314/6652/9223/9218/1527/8767",
+            "chossen": false
+        }
+    },
+    "# 吸血蛛腰带": {
+        "level": 424,
+        "attributes": {
+            "part": "# waist",
+            "id": 159325,
+            "gem_id": "192948,",
+            "bonus_id": "6652/9413/9223/9219/9144/9320/3294/8767",
+            "chossen": false
+        }
+    },
+    "# 看护者的职责腰甲": {
+        "level": 411,
+        "attributes": {
+            "part": "# waist",
+            "id": 193744,
+            "bonus_id": "9316/6652/9414/9223/9219/9144/1633/8767",
+            "chossen": false
+        }
+    },
+    "# 朱锻长裤": {
+        "level": 441,
+        "attributes": {
+            "part": "# legs",
+            "id": 202505,
+            "enchant_id": 6544,
+            "bonus_id": "6652/9380/9228/1498",
+            "chossen": false
+        }
+    },
+    "# 战熊热裤": {
+        "level": 28,
+        "attributes": {
+            "part": "# legs",
+            "id": 15065,
+            "chossen": false
+        }
+    },
+    "# 库拉格的索具攀登靴": {
+        "level": 408,
+        "attributes": {
+            "part": "# feet",
+            "id": 155862,
+            "bonus_id": "9315/6652/9223/9219/9144/3278/8767",
+            "chossen": false
+        }
+    },
+    "# 可疑忠诚印戒": {
+        "level": 415,
+        "attributes": {
+            "part": "# finger1",
+            "id": 158314,
+            "enchant_id": 6556,
+            "bonus_id": "9321/6652/9415/9144/3285/8767",
+            "chossen": false
+        }
+    },
+    "# 脉动血管指环": {
+        "level": 424,
+        "attributes": {
+            "part": "# finger1",
+            "id": 159463,
+            "enchant_id": 6556,
+            "gem_id": "192948,",
+            "bonus_id": "6652/9413/9144/9320/3294/8767",
+            "chossen": false
+        }
+    },
+    "# 流水脉动之心": {
+        "level": 424,
+        "attributes": {
+            "part": "# trinket1",
+            "id": 193736,
+            "bonus_id": "6652/9144/9320/1646/8767",
+            "chossen": false
+        }
+    },
+    "# 卓格巴尔岩石": {
+        "level": 398,
+        "attributes": {
+            "part": "# trinket1",
+            "id": 204810,
+            "bonus_id": "6652/9501/9301/1620/8766",
+            "chossen": false
+        }
+    },
+    "# 瓦兰奈尔的超因果碎片": {
+        "level": 424,
+        "attributes": {
+            "part": "# trinket1",
+            "id": 206958,
+            "bonus_id": "6652/9320/1494/8767",
+            "chossen": false
+        }
+    },
+    "# 巨龙剥皮者的沸腾短剑": {
+        "level": 382,
+        "attributes": {
+            "part": "# main_hand",
+            "id": 192024,
+            "enchant_id": 6632,
+            "bonus_id": "8902/6652/9296/1504/8766",
+            "chossen": false
+        }
+    },
+    "# 耀光群岛之柱": {
+        "level": 424,
+        "attributes": {
+            "part": "# main_hand",
+            "id": 194898,
+            "enchant_id": 6643,
+            "bonus_id": "8836/8840/8902/9405/8793/9237/9366,",
+            "crafted_stats": "32/36,",
+            "crafting_quality": "5",
+            "chossen": false
+        }
+    },
+    "# 充盈之刃": {
+        "level": 402,
+        "attributes": {
+            "part": "# main_hand",
+            "id": 204748,
+            "bonus_id": "9313/6652/1524/8767",
+            "chossen": false
+        }
+    },
+    "# 永恒龙塔杖": {
+        "level": 411,
+        "attributes": {
+            "part": "# main_hand",
+            "id": 193803,
+            "bonus_id": "9316/6652/9147/1633/8767",
+            "chossen": false
+        }
+    }
+}

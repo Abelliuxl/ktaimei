@@ -1,0 +1,67 @@
+{
+  "death-knight": {
+    "blood": ["血dk", "dkt"],
+    "frost": ["冰dk", "bdk"],
+    "unholy": ["xdk", "邪dk"]
+  },
+  "demon-hunter": {
+    "havoc": ["dh", "浩劫", "浩劫dh"], 
+    "vengeance": ["dht", "复仇"]
+  },
+  "druid": {
+    "balance": ["鸟德", "鸡", "咕咕", "鹌鹑","gg"],
+    "feral": ["野德", "猫德", "猫","yd","猫"],
+    "guardian": ["熊德", "熊t", "屁股","xd","大屁股","xt","pg"],
+    "restoration": ["奶德"]
+  },
+  "evoker": {
+    "devastation": ["湮灭", "龙dps","ldps"],
+    "preservation": ["龙乃", "龙奶","ln"],
+    "augmentation": ["增辉", "zh"] 
+  },
+  "hunter": {
+    "beast-mastery": ["兽王", "野兽","sw","swl"],
+    "marksmanship": ["射击","sj","sjl"],
+    "survival": ["生存猎", "生存","sc","scl"]
+  },
+  "mage": {
+    "arcane": ["奥法", "af"],
+    "fire": ["火法", "hf"],
+    "frost": ["冰法", "bf"]
+  },
+  "monk": {
+    "brewmaster": ["酒仙","jx"],
+    "mistweaver": ["奶僧"],
+    "windwalker": ["踏风", "风僧","风行","tf"]
+  },
+  "paladin": {
+    "holy": ["奶骑","nq"],
+    "protection": ["防骑", "fq"], 
+    "retribution": ["惩戒", "cj", "惩戒骑"]
+  },
+  "priest": {
+    "discipline": ["戒律", "jl", "戒律牧","jlm"],
+    "holy": ["神牧", "白色汁液", "sm"],
+    "shadow": ["暗牧", "am"]
+  },
+  "rogue": {
+    "assassination": ["刺杀", "cs","刺杀贼","csz"],
+    "outlaw": ["狂徒", "kt", "狂徒贼","ktz"],
+    "subtlety": ["敏锐", "mr","敏锐贼", "mrz"]
+  },
+  "shaman": {
+    "elemental": ["元素", "ys","元素萨", "元素萨满","yss"],
+    "enhancement": ["增强", "zq","增强萨", "增强萨满","zqs"],
+    "restoration": ["奶萨", "奶萨满"]
+  },
+  "warlock": {
+    "affliction": ["痛苦", "tk","痛苦术", "tks"],
+    "demonology": ["恶魔", "em","恶魔术", "ems"],
+    "destruction": ["毁灭", "hm","毁灭术", "hms"]
+  },
+  "warrior": {
+    "arms": ["武器战", "wq","wqz"],
+    "fury": ["狂暴战", "kb","kbz"],
+    "protection": ["防战", "fz"]
+  }
+}

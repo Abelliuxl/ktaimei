@@ -1,0 +1,42 @@
+[
+    {
+        "name": "喝花露水",
+        "race": "Night Elf",
+        "faction": "alliance",
+        "region": "tw",
+        "realm": "world-tree",
+        "loadout_text": "BoPAAAAAAAAAAAAAAAAAAAAAAAikkkEJJi0iEQiIhgkIRCAAAAAgkkEItESSAAARSSSAAAAA"
+    },
+    {
+        "name": "Smilingx",
+        "race": "Dwarf",
+        "faction": "alliance",
+        "region": "eu",
+        "realm": "silvermoon",
+        "loadout_text": "BwPAAAAAAAAAAAAAAAAAAAAAAAAiEJhIlIhEJSEikkIAAAAAAAAAAKQSSCSKAQkESLRSSCSA"
+    },
+    {
+        "name": "不行不行鸭",
+        "race": "Gnome",
+        "faction": "alliance",
+        "region": "tw",
+        "realm": "whisperwind",
+        "loadout_text": "BoPAAAAAAAAAAAAAAAAAAAAAAAikkIRSiItIRQiIhgkIRCAAAAAgkkEItESSAAARSSSAAAAA"
+    },
+    {
+        "name": "笨蛋青空酱",
+        "race": "Vulpera",
+        "faction": "horde",
+        "region": "tw",
+        "realm": "queldorei",
+        "loadout_text": "BoPAAAAAAAAAAAAAAAAAAAAAAAikkIRSiItIhQiIhgkIRCAAAAAESSCk0SISAAARSSSAAAAA"
+    },
+    {
+        "name": "Kyrasis",
+        "race": "Dark Iron Dwarf",
+        "faction": "alliance",
+        "region": "us",
+        "realm": "area-52",
+        "loadout_text": "BoPAAAAAAAAAAAAAAAAAAAAAAAikkkQSiIiERkISIIJSkAAAAAAIJJBSLhkEAAQkkkEAAAA"
+    }
+]

@@ -1,0 +1,29 @@
+2023-10-16 10:02:08,144 - command check_journal_if is triggered by msg: /if Matter Phy
+2023-10-16 10:02:08,145 - 2023-10-16 10:02:08.145276 - 📖：  Matter Phy
+2023-10-16 10:02:09,854 - 2023-10-16 10:02:08.145276 - 🙃回答： 期刊名：JOURNAL OF MATHEMATICAL PHYSICS，影响因子：1.3
+2023-10-16 11:56:18,271 - command gf is triggered by msg: /gf
+2023-10-16 11:56:18,271 - 距离国服魔兽世界关服已经过去了: 265天11小时56分钟
+2023-10-16 11:57:00,461 - command talent_fetch is triggered by msg: /tfjc
+2023-10-16 11:58:19,524 - 2023-10-16 04:10:01.710088 - ❓提问： `/if 期刊名称` \-\-\-\-\-\-\-\-\-\-\-\--获取学术期刊的影响因子
+2023-10-16 11:58:21,099 - 2023-10-16 04:10:01.710088 - 🙃回答： 影响因子这种事情，你连Google都不会用吗？别浪费我的时间！
+2023-10-16 11:59:35,316 - command talent_fetch is triggered by msg: /tf 增辉
+2023-10-16 14:36:03,216 - command check_journal_if is triggered by msg: /if Phytomedicine
+2023-10-16 14:36:03,216 - 2023-10-16 14:36:03.216728 - 📖：  Phytomedicine
+2023-10-16 14:36:03,643 - 2023-10-16 14:36:03.216728 - 🙃回答： 期刊名：PHYTOMEDICINE，影响因子：7.9
+2023-10-16 20:26:51,703 - command check_journal_if is triggered by msg: /if science translational medicine
+2023-10-16 20:26:51,703 - 2023-10-16 20:26:51.703610 - 📖：  science translational medicine
+2023-10-16 20:26:52,324 - 2023-10-16 20:26:51.703610 - 🙃回答： 期刊名：Science Translational Medicine，影响因子：17.1
+2023-10-17 00:49:48,701 - command check_journal_if is triggered by msg: /if Journal of Cachexia, Sarcopenia and Muscle
+2023-10-17 00:49:48,701 - 2023-10-17 00:49:48.701408 - 📖：  Journal of Cachexia, Sarcopenia and Muscle
+2023-10-17 00:49:50,588 - 2023-10-17 00:49:48.701408 - 🙃回答： 期刊名：JOURNAL OF CHEMICAL SCIENCES，影响因子：1.7
+期刊名：JOURNAL OF ADHESION SCIENCE AND TECHNOLOGY，影响因子：2.3
+2023-10-17 00:50:24,853 - command check_journal_if is triggered by msg: /if cancer
+2023-10-17 00:50:24,853 - 2023-10-17 00:50:24.853304 - 📖：  cancer
+2023-10-17 00:50:25,436 - 2023-10-17 00:50:24.853304 - 🙃回答： 期刊名：CANCER，影响因子：6.2
+2023-10-17 00:50:52,716 - command check_journal_if is triggered by msg: /if cancer gene ther
+2023-10-17 00:50:52,716 - 2023-10-17 00:50:52.716502 - 📖：  cancer gene ther
+2023-10-17 00:50:54,529 - 2023-10-17 00:50:52.716502 - 🙃回答： 期刊名：CANCER GENE THERAPY，影响因子：6.4
+期刊名：CANCER GENE THERAPY，影响因子：6.4
+期刊名：CURRENT GENE THERAPY，影响因子：3.6
+2023-10-17 04:10:01,346 - Scheduler started
+2023-10-17 04:10:01,908 - [ init ] launched
